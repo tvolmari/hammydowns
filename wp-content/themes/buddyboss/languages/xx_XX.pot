@@ -1,0 +1,1343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss 3.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-02 18:28-0800\n"
+"PO-Revision-Date: 2014-06-02 18:28-0800\n"
+"Last-Translator: eisenwasser <eisenwasser@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Not Found"
+msgstr ""
+
+#: ../404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:31
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../author.php:55
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-buddypress.php:78
+#: ../content-page.php:23
+#: ../content.php:83
+msgid "Edit"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:17
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../content-page.php:19
+#: ../content.php:78
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:28
+#: ../content.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#: ../content.php:28
+#: ../content.php:65
+msgid "1 Reply"
+msgstr ""
+
+#: ../content.php:28
+#: ../content.php:65
+msgid "% Replies"
+msgstr ""
+
+#: ../content.php:38
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content.php:77
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../footer.php:64
+msgid "Copyright &copy;"
+msgstr ""
+
+#: ../footer.php:64
+msgid "&nbsp;&middot;&nbsp; Designed by <a href=\"http://www.buddyboss.com/\" target=\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+msgstr ""
+
+#: ../footer.php:80
+msgid "Facebook"
+msgstr ""
+
+#: ../footer.php:84
+msgid "Twitter"
+msgstr ""
+
+#: ../footer.php:88
+msgid "LinkedIn"
+msgstr ""
+
+#: ../footer.php:92
+msgid "Google+"
+msgstr ""
+
+#: ../footer.php:96
+msgid "Youtube"
+msgstr ""
+
+#: ../footer.php:100
+msgid "Instagram"
+msgstr ""
+
+#: ../footer.php:104
+msgid "Pinterest"
+msgstr ""
+
+#: ../footer.php:108
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:13
+msgid "BuddyBoss cannot find the starter file, should be located at: *wp root*/wp-content/themes/buddyboss/buddyboss-inc/init.php"
+msgstr ""
+
+#: ../header.php:65
+msgid "Register"
+msgstr ""
+
+#: ../header.php:68
+msgid "Login"
+msgstr ""
+
+#: ../header.php:78
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:26
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../index.php:65
+msgid "No posts to display"
+msgstr ""
+
+#: ../index.php:69
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: ../single.php:20
+#: ../buddyboss-inc/theme-functions.php:726
+msgid "Post navigation"
+msgstr ""
+
+#: ../single.php:21
+msgid "&larr;"
+msgstr ""
+
+#: ../single.php:22
+msgid "&rarr;"
+msgstr ""
+
+#: ../tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: ../bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:63
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:72
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../buddyboss-inc/init.php:272
+msgid "Module does not have the proper info array"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:46
+msgid "Profile: Extra Links"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:47
+msgid "Group: Extra Links"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:202
+msgid "Accepted"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:203
+msgid "Close"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:204
+msgid "comments"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:205
+msgid "Are you sure you want to leave this group?"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:206
+msgid "Favorite"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:207
+msgid "My Favorites"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:208
+msgid "Rejected"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:209
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:210
+msgid "Show all"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:211
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:212
+#, php-format
+msgid "Show all %d comments"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:213
+msgid "Your profile has unsaved changes. If you leave the page, the changes will be lost."
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:214
+msgid "View"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:235
+msgid "Show:"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:236
+msgid "Post in:"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:525
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:727
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:728
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:753
+msgid "Pingback:"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:753
+msgid "(Edit)"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:768
+msgid "Post author"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:774
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:780
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:789
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:808
+#: ../buddyboss-inc/theme-functions.php:811
+msgid ", "
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:822
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:828
+#: ../buddyboss-inc/theme-functions.php:830
+#: ../buddyboss-inc/theme-functions.php:832
+#, php-format
+msgid "%3$s <span class=\"by-author\"> by %4$s</span>"
+msgstr ""
+
+#: ../buddyboss-inc/theme-functions.php:1208
+msgid "View Profile"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:57
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:66
+msgid "Logo"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:59
+msgid "Upload logo in place of site title and tagline."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:80
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:124
+msgid "WordPress Toolbar"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:82
+msgid "Dock a full-width Toolbar to the top of the page, or float it to the right."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:91
+msgid "Toolbar Layout"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:110
+msgid "Colors &rarr; Layout"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:112
+msgid "Select your color scheme. To preview in mobile, just collapse the width of this browser window."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:139
+msgid "Header"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:154
+msgid "Navigation"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:169
+msgid "Links &amp; Buttons"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:184
+msgid "Icons & Indicators"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:199
+msgid "Background (large screens)"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:215
+msgid "Footer #1 (widget area)"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:230
+msgid "Footer #2"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:244
+msgid "Colors &rarr; Text"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:246
+msgid "Text color options. To preview in mobile, just collapse the width of this browser window."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:258
+msgid "Site Title &amp; Tagline"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:273
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:344
+msgid "Slide Titles"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:289
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:358
+msgid "Headings"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:304
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:372
+msgid "Body Content"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:318
+msgid "Typography"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:320
+msgid "Select your desired fonts."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:330
+msgid "Site Title"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:388
+msgid "Social Media Links"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:390
+msgid "Social media links will display in the footer after you click Save &amp; Publish."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:483
+msgid "Email Address"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:19
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:78
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:238
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:259
+msgid "Photos"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:182
+msgid "One moment..."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:183
+msgid "Error uploading photo"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:184
+msgid "Upload a Picture"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:185
+#: ../buddypress/activity/entry-default.php:96
+#: ../buddypress/activity/entry-wall.php:118
+#: ../buddypress/forums/index.php:111
+msgid "Cancel"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:186
+msgid "Failed"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:187
+#: ../buddypress/activity/post-form.php:66
+msgid "Add Photo"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:188
+msgid "Photo is currently uploading, please wait!"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:228
+#, php-format
+msgid "Photos <span>%d</span>"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:755
+msgid "posted a new picture"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:1203
+msgid "First"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:1239
+msgid "Last"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-pics/templates/single-picture.php:87
+msgid "Are you sure?"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:17
+msgid "Slides"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:18
+msgid "Slide"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:19
+msgid "Add New"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:20
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:22
+msgid "Add New Slide"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:21
+msgid "Edit Slide"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:23
+msgid "View Slide"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:24
+msgid "Search Slides"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:25
+msgid "No Slides found"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:26
+msgid "No Slides found in trash"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:62
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:81
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:84
+msgid "Wall"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:82
+msgid "News Feed"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:83
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:145
+#: ../buddypress/activity/index.php:2
+msgid "My Likes"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:140
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:877
+msgid "person"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:141
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:878
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1147
+msgid "people"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:142
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:882
+msgid "like"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:143
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:881
+msgid "likes"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:144
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1335
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1358
+#: ../buddypress/activity/entry-wall.php:66
+msgid "Like"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:146
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1333
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1360
+#: ../buddypress/activity/entry-wall.php:70
+msgid "Unlike"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:642
+#, php-format
+msgid "@%s Mentions"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:645
+#, php-format
+msgid "You have %1$d new mentions"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:648
+#, php-format
+msgid "%1$s mentioned you"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:944
+#, php-format
+msgid "%s %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:956
+msgid "You like this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:966
+msgid "Error getting likes."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:992
+#, php-format
+msgid "You and %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:995
+#, php-format
+msgid "%s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1004
+#, php-format
+msgid "You, %s and %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1007
+#, php-format
+msgid "%s and %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1018
+#, php-format
+msgid "%s other %s"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1023
+#, php-format
+msgid "You, %s, %s and %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1026
+#, php-format
+msgid "%s, %s and %s %s this."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1139
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1147
+msgid "mentioned"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1158
+msgid "in a public message"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1176
+#, php-format
+msgid "%s'"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1179
+#, php-format
+msgid "%s's"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1189
+#, php-format
+msgid "%s Wall"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1199
+#, php-format
+msgid "%s wrote on %s's Wall"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1277
+msgid "Please enter some content to post."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1308
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:65
+msgid "Edit Profile"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:76
+msgid "Username"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:85
+msgid "Password"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:88
+msgid "Remember Me"
+msgstr ""
+
+#: ../buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:91
+msgid "Log In"
+msgstr ""
+
+#: ../buddypress/activity/entry-default.php:54
+#: ../buddypress/activity/entry-wall.php:84
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/entry-default.php:96
+#: ../buddypress/activity/entry-wall.php:118
+msgid "Post"
+msgstr ""
+
+#: ../buddypress/activity/entry-default.php:96
+#: ../buddypress/activity/entry-wall.php:118
+msgid "or press esc to cancel"
+msgstr ""
+
+#: ../buddypress/activity/entry-wall.php:39
+msgid "In reply to: "
+msgstr ""
+
+#: ../buddypress/activity/entry-wall.php:39
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: ../buddypress/activity/index.php:22
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: ../buddypress/activity/index.php:22
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/index.php:32
+msgid "The activity of my friends only."
+msgstr ""
+
+#: ../buddypress/activity/index.php:32
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/index.php:44
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: ../buddypress/activity/index.php:44
+#: ../buddypress/groups/index.php:22
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/index.php:54
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: ../buddypress/activity/index.php:54
+#, php-format
+msgid " <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/activity/index.php:62
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: ../buddypress/activity/index.php:62
+msgid "Mentions"
+msgstr ""
+
+#: ../buddypress/activity/index.php:71
+msgid "RSS Feed"
+msgstr ""
+
+#: ../buddypress/activity/index.php:71
+msgid "RSS"
+msgstr ""
+
+#: ../buddypress/activity/index.php:78
+msgid "Everything"
+msgstr ""
+
+#: ../buddypress/activity/index.php:79
+msgid "Updates"
+msgstr ""
+
+#: ../buddypress/activity/index.php:83
+msgid "Posts"
+msgstr ""
+
+#: ../buddypress/activity/index.php:84
+msgid "Comments"
+msgstr ""
+
+#: ../buddypress/activity/index.php:90
+msgid "Forum Topics"
+msgstr ""
+
+#: ../buddypress/activity/index.php:91
+msgid "Forum Replies"
+msgstr ""
+
+#: ../buddypress/activity/index.php:97
+msgid "New Groups"
+msgstr ""
+
+#: ../buddypress/activity/index.php:98
+msgid "Group Memberships"
+msgstr ""
+
+#: ../buddypress/activity/index.php:104
+msgid "Friendships"
+msgstr ""
+
+#: ../buddypress/activity/index.php:108
+msgid "New Members"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:19
+#, php-format
+msgid "You need to <a href=\"%s\" title=\"Log in\">log in</a>"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:19
+#, php-format
+msgid " or <a class=\"create-account\" href=\"%s\" title=\"Create an account\">create an account</a>"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:19
+msgid " to post to this user's Wall."
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:25
+#, php-format
+msgid "You and %s are not friends. Request friendship to post to their Wall."
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:34
+#, php-format
+msgid "You are mentioning %s in a new update, this user will be sent a notification of your message."
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:46
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:50
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:54
+#, php-format
+msgid "Write something to %s?"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:58
+#, php-format
+msgid "Add a photo, %s"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:82
+msgid "Post Update"
+msgstr ""
+
+#: ../buddypress/activity/post-form.php:94
+msgid "My Profile"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:15
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:19
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:29
+#: ../buddypress/forums/index.php:36
+#: ../buddypress/groups/index.php:31
+msgid "Order By:"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:31
+#: ../buddypress/forums/index.php:38
+#: ../buddypress/groups/index.php:34
+msgid "Last Active"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:32
+msgid "Newest"
+msgstr ""
+
+#: ../buddypress/blogs/index.php:33
+#: ../buddypress/groups/index.php:37
+msgid "Alphabetical"
+msgstr ""
+
+#: ../buddypress/forums/index.php:22
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/forums/index.php:26
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/forums/index.php:39
+msgid "Most Posts"
+msgstr ""
+
+#: ../buddypress/forums/index.php:40
+msgid "Unreplied"
+msgstr ""
+
+#: ../buddypress/forums/index.php:77
+msgid "Create New Topic:"
+msgstr ""
+
+#: ../buddypress/forums/index.php:81
+msgid "Title:"
+msgstr ""
+
+#: ../buddypress/forums/index.php:84
+msgid "Content:"
+msgstr ""
+
+#: ../buddypress/forums/index.php:87
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: ../buddypress/forums/index.php:90
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: ../buddypress/forums/index.php:93
+msgid "----"
+msgstr ""
+
+#: ../buddypress/forums/index.php:110
+msgid "Post Topic"
+msgstr ""
+
+#: ../buddypress/forums/index.php:122
+#, php-format
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:47
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: ../buddypress/groups/index.php:19
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: ../buddypress/groups/index.php:35
+msgid "Most Members"
+msgstr ""
+
+#: ../buddypress/groups/index.php:36
+msgid "Newly Created"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:32
+#: ../buddypress/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:64
+#: ../buddypress/groups/single/admin.php:74
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:75
+#: ../buddypress/groups/single/admin.php:85
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:84
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:127
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:137
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:185
+#: ../buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:191
+#: ../buddypress/groups/single/admin.php:219
+msgid "Demote to Member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:218
+#: ../buddypress/groups/single/admin.php:276
+msgid "Promote to Admin"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:232
+msgid "Members"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:261
+msgid "(banned)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Unban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Remove Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:274
+msgid "Kick and ban this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:274
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:275
+msgid "Promote to Mod"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:280
+msgid "Remove this member"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:280
+msgid "Remove from group"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:293
+msgid "This group has no members."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:323
+msgid "Accept"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:325
+msgid "Reject"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:338
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:355
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:358
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:363
+msgid "Delete Group"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:18
+msgid "Group Admins"
+msgstr ""
+
+#: ../buddypress/groups/single/group-header.php:27
+msgid "Group Mods"
+msgstr ""
+
+#: ../buddypress/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: ../buddypress/groups/single/send-invites.php:44
+msgid "Remove Invite"
+msgstr ""
+
+#: ../buddypress/groups/single/send-invites.php:62
+msgid "Send Invites"
+msgstr ""
+
+#: ../buddypress/groups/single/send-invites.php:75
+msgid "Once you have built up friend connections you will be able to invite others to your group."
+msgstr ""
+
+#: ../buddypress/members/index.php:33
+msgid "Newest Registered"
+msgstr ""
+
+#: ../buddypress/members/members-loop.php:113
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../buddypress/members/single/pictures.php:86
+msgid "There were no photos found."
+msgstr ""
+
+#: ../buddypress/members/single/groups/invites.php:16
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: ../buddypress/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: ../buddypress/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: ../buddypress/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: ../buddypress/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr ""
+
+#: ../buddypress/members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: ../buddypress/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:34
+msgid "From:"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:39
+msgid "To:"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:45
+msgid "View Message"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:52
+#: ../buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete Message"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:52
+#: ../buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete"
+msgstr ""
+
+#: ../buddypress/members/single/messages/messages-loop.php:73
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: ../buddypress/members/single/messages/notices-loop.php:35
+msgid "Sent:"
+msgstr ""
+
+#: ../buddypress/members/single/messages/notices-loop.php:53
+msgid "Sorry, no notices were found."
+msgstr ""
+

@@ -1,0 +1,1487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss 3.1.7\n"
+"POT-Creation-Date: 2014-04-20 00:11+0400\n"
+"PO-Revision-Date: 2014-04-25 13:03-0800\n"
+"Last-Translator: eisenwasser <eisenwasser@gmail.com>\n"
+"Language-Team: Olymp <info@olymproject.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что в данном разделе ничего нет. Может быть попробовать функцию поиска?"
+
+#: archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архивы по дням: %s"
+
+#: archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архивы по месяцам: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архивы по годам: %s"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Архивы"
+
+#: author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архивы по авторам: %s"
+
+#: author.php:55
+#, php-format
+msgid "About %s"
+msgstr "Об авторе %s"
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr "Поиск в форумах..."
+
+#: bbpress/form-search.php:17
+msgid "Search"
+msgstr "Поиск"
+
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "в ответ участнику:"
+
+#: bbpress/loop-single-topic.php:63
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Открыта автором: %1$s"
+
+#: bbpress/loop-single-topic.php:72
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "в: <a href=\"%1$s\">%2$s</a>"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:57
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:66
+msgid "Logo"
+msgstr "Лого"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:59
+msgid "Upload logo in place of site title and tagline."
+msgstr "Загрузить лого вместо заголовка сайта и краткого описания"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:80
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:124
+msgid "WordPress Toolbar"
+msgstr "Панель WordPress"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:82
+msgid "Dock a full-width Toolbar to the top of the page, or float it to the right."
+msgstr "Прикрепить растянутую во всю ширину страницы панель наверху или поместить в компактном виде справа."
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:91
+msgid "Toolbar Layout"
+msgstr "Макет панели"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:110
+msgid "Colors &rarr; Layout"
+msgstr "Цвета и макет "
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:112
+msgid "Select your color scheme. To preview in mobile, just collapse the width of this browser window."
+msgstr "Задайте цветовую схему. Для просмотра мобильной версии, сверните окно браузера до небольшого размера."
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:139
+msgid "Header"
+msgstr "Заголовок"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:154
+msgid "Navigation"
+msgstr "Навигация"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:169
+msgid "Links &amp; Buttons"
+msgstr "Ссылки и кнопки"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:184
+msgid "Icons & Indicators"
+msgstr "Иконки и индикаторы"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:199
+msgid "Background (large screens)"
+msgstr "Фон (для больших экранов)"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:215
+msgid "Footer #1 (widget area)"
+msgstr "Колонтитул #1 (зона виджетов)"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:230
+msgid "Footer #2"
+msgstr "Колонтитул #2"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:244
+msgid "Colors &rarr; Text"
+msgstr "Цвета и текст"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:246
+msgid "Text color options. To preview in mobile, just collapse the width of this browser window."
+msgstr "Настройки цвета текста. Для просмотра мобильной версии сверните окно браузера до небольшого размера."
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:258
+msgid "Site Title &amp; Tagline"
+msgstr "Название и описание сайта"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:273
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:344
+msgid "Slide Titles"
+msgstr "Названия слайдов"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:289
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:358
+msgid "Headings"
+msgstr "Заголовки"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:304
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:372
+msgid "Body Content"
+msgstr "Содержание сайта"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:318
+msgid "Typography"
+msgstr "Шрифты"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:320
+msgid "Select your desired fonts."
+msgstr "Выберите нуный шрифт.  "
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:330
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:388
+msgid "Social Media Links"
+msgstr "Ссылки соцсетей"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:390
+msgid "Social media links will display in the footer after you click Save &amp; Publish."
+msgstr "Ссылки соцсетей будут отображаться в нижнем колонтитуле после того как Вы нажмете Сохранить и Опубликовать."
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:399
+#: footer.php:80
+msgid "Facebook"
+msgstr "Facebook"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:411
+#: footer.php:84
+msgid "Twitter"
+msgstr "Twitter"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:423
+#: footer.php:88
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:435
+#: footer.php:92
+msgid "Google+"
+msgstr "Google+"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:447
+#: footer.php:96
+msgid "Youtube"
+msgstr "Youtube"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:459
+#: footer.php:100
+msgid "Instagram"
+msgstr "Instagram"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:471
+#: footer.php:104
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: buddyboss-inc/buddyboss-customizer/buddyboss-customizer-loader.php:483
+msgid "Email Address"
+msgstr "Email адрес"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:19
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:78
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:227
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:248
+msgid "Photos"
+msgstr "Фото"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:179
+#: buddypress/activity/entry-default.php:96
+#: buddypress/activity/entry-wall.php:118
+#: buddypress/forums/index.php:111
+msgid "Cancel"
+msgstr "Отмена"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:180
+msgid "Failed"
+msgstr "Ошибка"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:181
+#: buddypress/activity/post-form.php:66
+msgid "Add Photo"
+msgstr "Добавить фото"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:182
+msgid "Photo is currently uploading, please wait!"
+msgstr "Фото загружается, подождите, пожалуйста!"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:217
+#, php-format
+msgid "Photos <span>%d</span>"
+msgstr "Фото <span>%d</span>"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:255
+#: buddyboss-inc/theme-functions.php:198
+#: buddypress/activity/entry-wall.php:39
+msgid "View"
+msgstr "Просмотр"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:737
+msgid "posted a new picture"
+msgstr "опубликовал новое изображение"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:1185
+msgid "First"
+msgstr "Имя"
+
+#: buddyboss-inc/buddyboss-pics/buddyboss-pics-loader.php:1221
+msgid "Last"
+msgstr "Фамилия"
+
+#: buddyboss-inc/buddyboss-pics/templates/single-picture.php:87
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:17
+msgid "Slides"
+msgstr "Слайды"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:18
+msgid "Slide"
+msgstr "Слайд"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:19
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:20
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:22
+msgid "Add New Slide"
+msgstr "Добавить новый слайд"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:21
+msgid "Edit Slide"
+msgstr "Изменить слайд"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:23
+msgid "View Slide"
+msgstr "Смотреть слайд"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:24
+msgid "Search Slides"
+msgstr "Найти слайды"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:25
+msgid "No Slides found"
+msgstr "Слайды не найдены"
+
+#: buddyboss-inc/buddyboss-slides/buddyboss-slides-loader.php:26
+msgid "No Slides found in trash"
+msgstr "В мусорной корине слайдов нет"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:62
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:81
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:84
+msgid "Wall"
+msgstr "Доска"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:82
+msgid "News Feed"
+msgstr "Новостные ленты"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:83
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:146
+#: buddypress/activity/index.php:2
+msgid "My Likes"
+msgstr "Мне нравится"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:141
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:885
+msgid "person"
+msgstr "участник"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:142
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:886
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1155
+msgid "people"
+msgstr "участники"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:143
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:890
+msgid "like"
+msgstr "нравится"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:144
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:889
+msgid "likes"
+msgstr "нравится"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:145
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1318
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1341
+#: buddypress/activity/entry-wall.php:66
+msgid "Like"
+msgstr "Нравится"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:147
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1316
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1343
+#: buddypress/activity/entry-wall.php:70
+msgid "Unlike"
+msgstr "Не нравится"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:650
+#, php-format
+msgid "@%s Mentions"
+msgstr "@%s Упоминания"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:653
+#, php-format
+msgid "You have %1$d new mentions"
+msgstr "Вы были упомянуты %1$d раз"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:656
+#, php-format
+msgid "%1$s mentioned you"
+msgstr "%1$s упоминает Вас"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:952
+#, php-format
+msgid "%s %s %s this."
+msgstr "%s %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:964
+msgid "You like this."
+msgstr "Вам это нравится."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:974
+msgid "Error getting likes."
+msgstr "Проблема с помтками нравится."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1000
+#, php-format
+msgid "You and %s %s this."
+msgstr "Вы и %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1003
+#, php-format
+msgid "%s %s this."
+msgstr "%s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1012
+#, php-format
+msgid "You, %s and %s %s this."
+msgstr "Вам, %s и %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1015
+#, php-format
+msgid "%s and %s %s this."
+msgstr "%s и %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1026
+#, php-format
+msgid "%s other %s"
+msgstr "%s другие %s"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1031
+#, php-format
+msgid "You, %s, %s and %s %s this."
+msgstr "Вам, %s, %s и %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1034
+#, php-format
+msgid "%s, %s and %s %s this."
+msgstr "%s, %s и %s %s это."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1147
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1155
+msgid "mentioned"
+msgstr "упомянуты"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1166
+msgid "in a public message"
+msgstr "в открытом сообщении"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1184
+#, php-format
+msgid "%s wrote on %s Wall"
+msgstr "%s публиковал(а) на Доске участника %s"
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1260
+msgid "Please enter some content to post."
+msgstr "Пожалуйста, введите какой-нибудь текст для отправки."
+
+#: buddyboss-inc/buddyboss-wall/buddyboss-wall-loader.php:1291
+msgid "There was a problem posting your update, please try again."
+msgstr "Возникла проблема при публикации Вашего обновления. Пожалуйста, попробуйте еще раз."
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:65
+msgid "Edit Profile"
+msgstr "Изменить профиль"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:76
+msgid "Username"
+msgstr "Логин"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:85
+msgid "Password"
+msgstr "Пароль"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:88
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:91
+msgid "Log In"
+msgstr "Войти"
+
+#: buddyboss-inc/buddyboss-widgets/buddyboss-profile-widget-loader.php:94
+#: header.php:65
+msgid "Register"
+msgstr "Регистрация"
+
+#: buddyboss-inc/init.php:272
+msgid "Module does not have the proper info array"
+msgstr "Модуль не содержит соответствующий массив данных"
+
+#: buddyboss-inc/theme-functions.php:39
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: buddyboss-inc/theme-functions.php:40
+msgid "Footer Menu"
+msgstr "Меню коллонтитула"
+
+#: buddyboss-inc/theme-functions.php:46
+msgid "Profile: Extra Links"
+msgstr "Профиль: дополнительные ссылки"
+
+#: buddyboss-inc/theme-functions.php:47
+msgid "Group: Extra Links"
+msgstr "Группа: дополнительные ссылки"
+
+#: buddyboss-inc/theme-functions.php:186
+msgid "Accepted"
+msgstr "Принято"
+
+#: buddyboss-inc/theme-functions.php:187
+msgid "Close"
+msgstr "Закрыть"
+
+#: buddyboss-inc/theme-functions.php:188
+msgid "comments"
+msgstr "комментарии"
+
+#: buddyboss-inc/theme-functions.php:189
+msgid "Are you sure you want to leave this group?"
+msgstr "Вы уверены, что хотите покинуть данную группу?"
+
+#: buddyboss-inc/theme-functions.php:190
+#: buddypress/activity/entry-default.php:62
+msgid "Favorite"
+msgstr "Избранное"
+
+#: buddyboss-inc/theme-functions.php:191
+#: buddypress/activity/index.php:2
+msgid "My Favorites"
+msgstr "Моё избранное"
+
+#: buddyboss-inc/theme-functions.php:192
+msgid "Rejected"
+msgstr "Отклоненные"
+
+#: buddyboss-inc/theme-functions.php:193
+#: buddypress/activity/entry-default.php:66
+msgid "Remove Favorite"
+msgstr "Удалить из избранного"
+
+#: buddyboss-inc/theme-functions.php:194
+msgid "Show all"
+msgstr "Показать все"
+
+#: buddyboss-inc/theme-functions.php:195
+msgid "Show all comments for this thread"
+msgstr "Показать все комментарии ветки"
+
+#: buddyboss-inc/theme-functions.php:196
+#, php-format
+msgid "Show all %d comments"
+msgstr "Показать все комментарии %d"
+
+#: buddyboss-inc/theme-functions.php:197
+msgid "Your profile has unsaved changes. If you leave the page, the changes will be lost."
+msgstr "В Вашем профиле есть не сохраненные изменения. Если Вы перейдете на другую страницу, изменения будут утеряны."
+
+#: buddyboss-inc/theme-functions.php:214
+#: buddypress/activity/index.php:76
+#: buddypress/members/single/activity.php:20
+msgid "Show:"
+msgstr "Фильтр:  "
+
+#: buddyboss-inc/theme-functions.php:215
+#: buddypress/activity/post-form.php:92
+msgid "Post in:"
+msgstr "Разместить в: "
+
+#: buddyboss-inc/theme-functions.php:540
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: buddyboss-inc/theme-functions.php:741
+#: single.php:20
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: buddyboss-inc/theme-functions.php:742
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+#: buddyboss-inc/theme-functions.php:743
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: buddyboss-inc/theme-functions.php:768
+msgid "Pingback:"
+msgstr "Обратная ссылка:"
+
+#: buddyboss-inc/theme-functions.php:768
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: buddyboss-inc/theme-functions.php:783
+msgid "Post author"
+msgstr "Автор записи "
+
+#. translators: 1: date, 2: time
+#: buddyboss-inc/theme-functions.php:789
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: buddyboss-inc/theme-functions.php:795
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: buddyboss-inc/theme-functions.php:803
+#: content-buddypress.php:73
+#: content-page.php:23
+#: content.php:83
+#: image.php:37
+msgid "Edit"
+msgstr "Редактировать"
+
+#: buddyboss-inc/theme-functions.php:804
+msgid "Reply <span>&darr;</span>"
+msgstr "Ответить <span>&darr;</span>"
+
+#: buddyboss-inc/theme-functions.php:823
+#: buddyboss-inc/theme-functions.php:826
+msgid ", "
+msgstr ", "
+
+#: buddyboss-inc/theme-functions.php:837
+#, php-format
+msgid "View all posts by %s"
+msgstr "Смотреть все записи автора %s"
+
+#: buddyboss-inc/theme-functions.php:843
+#: buddyboss-inc/theme-functions.php:845
+#: buddyboss-inc/theme-functions.php:847
+#, php-format
+msgid "%3$s <span class=\"by-author\"> by %4$s</span>"
+msgstr "Опубликовано %3$s<span class=\"by-author\"> автором %4$s</span>"
+
+#: buddyboss-inc/theme-functions.php:1208
+msgid "View Profile"
+msgstr "Просмотр профиля"
+
+#: buddypress/activity/entry-default.php:54
+#: buddypress/activity/entry-wall.php:84
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Комментарии <span>%s</span>"
+
+#: buddypress/activity/entry-default.php:62
+msgid "Mark as Favorite"
+msgstr "Поместить в избранное"
+
+#: buddypress/activity/entry-default.php:96
+#: buddypress/activity/entry-wall.php:118
+msgid "Post"
+msgstr "Публиковать"
+
+#: buddypress/activity/entry-default.php:96
+#: buddypress/activity/entry-wall.php:118
+msgid "or press esc to cancel"
+msgstr "или нажмите клавишу Esc для отмены "
+
+#: buddypress/activity/entry-wall.php:39
+msgid "In reply to: "
+msgstr "В ответ участнику:"
+
+#: buddypress/activity/entry-wall.php:39
+msgid "View Thread / Permalink"
+msgstr "Смотреть ветку / Постоянная ссылка"
+
+#: buddypress/activity/index.php:22
+msgid "The public activity for everyone on this site."
+msgstr "Публичные активности всех участников сообщества."
+
+#: buddypress/activity/index.php:22
+#: buddypress/members/index.php:19
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Все участники <span>%s</span>"
+
+#: buddypress/activity/index.php:32
+msgid "The activity of my friends only."
+msgstr "События только моих друзей."
+
+#: buddypress/activity/index.php:32
+#: buddypress/members/index.php:22
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Мои друзья <span>%s</span>"
+
+#: buddypress/activity/index.php:44
+msgid "The activity of groups I am a member of."
+msgstr "События в группах, членом которых я являюсь."
+
+#: buddypress/activity/index.php:44
+#: buddypress/groups/index.php:22
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Мои группы <span>%s</span>"
+
+#: buddypress/activity/index.php:54
+msgid "The activity I've marked as a favorite."
+msgstr "События в моём избранном."
+
+#: buddypress/activity/index.php:54
+#, php-format
+msgid " <span>%s</span>"
+msgstr "Отправить <span>%s</span>"
+
+#: buddypress/activity/index.php:62
+msgid "Activity that I have been mentioned in."
+msgstr "События в которых я упомянут(а)."
+
+#: buddypress/activity/index.php:62
+msgid "Mentions"
+msgstr "Упоминания"
+
+#: buddypress/activity/index.php:62
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s новое"
+msgstr[1] "%s новых"
+msgstr[2] "%s новых"
+
+#: buddypress/activity/index.php:71
+msgid "RSS Feed"
+msgstr "RSS подписка"
+
+#: buddypress/activity/index.php:71
+msgid "RSS"
+msgstr "RSS"
+
+#: buddypress/activity/index.php:78
+#: buddypress/members/single/activity.php:22
+msgid "Everything"
+msgstr "Всё"
+
+#: buddypress/activity/index.php:79
+#: buddypress/members/single/activity.php:23
+msgid "Updates"
+msgstr "Обновления"
+
+#: buddypress/activity/index.php:83
+#: buddypress/members/single/activity.php:29
+msgid "Posts"
+msgstr "Статьи"
+
+#: buddypress/activity/index.php:84
+#: buddypress/members/single/activity.php:30
+msgid "Comments"
+msgstr "Комментарии"
+
+#: buddypress/activity/index.php:90
+#: buddypress/members/single/activity.php:45
+msgid "Forum Topics"
+msgstr "Темы форума"
+
+#: buddypress/activity/index.php:91
+#: buddypress/members/single/activity.php:46
+msgid "Forum Replies"
+msgstr "Ответы в форуме"
+
+#: buddypress/activity/index.php:97
+#: buddypress/members/single/activity.php:52
+msgid "New Groups"
+msgstr "Новые группы"
+
+#: buddypress/activity/index.php:98
+#: buddypress/members/single/activity.php:53
+msgid "Group Memberships"
+msgstr "Членство в группах"
+
+#: buddypress/activity/index.php:104
+#: buddypress/members/single/activity.php:37
+msgid "Friendships"
+msgstr "Друзья"
+
+#: buddypress/activity/index.php:108
+msgid "New Members"
+msgstr "Новые участники"
+
+#: buddypress/activity/post-form.php:19
+#, php-format
+msgid "You need to <a href=\"%s\" title=\"Log in\">log in</a>"
+msgstr "Вам необходимо <a href=\"%s\" title=\"Авторизоваться\">авторизоваться</a>"
+
+#: buddypress/activity/post-form.php:19
+#, php-format
+msgid " or <a class=\"create-account\" href=\"%s\" title=\"Create an account\">create an account</a>"
+msgstr " или <a class=\"create-account\" href=\"%s\" title=\"Cоздать учетную запись\">cоздать учетную запись</a>"
+
+#: buddypress/activity/post-form.php:19
+msgid " to post to this user's Wall."
+msgstr " для публикации на Доске участника."
+
+#: buddypress/activity/post-form.php:25
+#, php-format
+msgid "You and %s are not friends. Request friendship to post to their Wall."
+msgstr "Вы и %s пока не дружите. Отправьте приглашение подружиться для публикации на его доске."
+
+#: buddypress/activity/post-form.php:34
+#, php-format
+msgid "You are mentioning %s in a new update, this user will be sent a notification of your message."
+msgstr "Вы упоминаете автора %s в новом событии. Этот участник получит уведомление о Вашем сообщении."
+
+#: buddypress/activity/post-form.php:46
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Что нового в группе &ldquo;%s&rdquo;, %s?"
+
+#: buddypress/activity/post-form.php:50
+#, php-format
+msgid "What's new, %s?"
+msgstr "Что нового, %s?"
+
+#: buddypress/activity/post-form.php:54
+#, php-format
+msgid "Write something to %s?"
+msgstr "Написать что-нибудь автору %s?"
+
+#: buddypress/activity/post-form.php:58
+#, php-format
+msgid "Add a photo, %s"
+msgstr "Добавить фото, %s"
+
+#: buddypress/activity/post-form.php:82
+msgid "Post Update"
+msgstr "Опубликовать"
+
+#: buddypress/activity/post-form.php:94
+msgid "My Profile"
+msgstr "Мой профиль"
+
+#: buddypress/blogs/index.php:15
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Все страницы <span>%s</span>"
+
+#: buddypress/blogs/index.php:19
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Мои страницы <span>%s</span>"
+
+#: buddypress/blogs/index.php:29
+#: buddypress/forums/index.php:36
+#: buddypress/groups/index.php:31
+#: buddypress/members/index.php:30
+msgid "Order By:"
+msgstr "Фильтр по: "
+
+#: buddypress/blogs/index.php:31
+#: buddypress/forums/index.php:38
+#: buddypress/groups/index.php:34
+#: buddypress/members/index.php:32
+msgid "Last Active"
+msgstr "Активности"
+
+#: buddypress/blogs/index.php:32
+msgid "Newest"
+msgstr "Новизне"
+
+#: buddypress/blogs/index.php:33
+#: buddypress/groups/index.php:37
+#: buddypress/members/index.php:36
+msgid "Alphabetical"
+msgstr "Алфавиту"
+
+#: buddypress/forums/index.php:22
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Все темы <span>%s</span>"
+
+#: buddypress/forums/index.php:26
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Мои темы <span>%s</span>"
+
+#: buddypress/forums/index.php:39
+msgid "Most Posts"
+msgstr "Все записи"
+
+#: buddypress/forums/index.php:40
+msgid "Unreplied"
+msgstr "Неотвеченные"
+
+#: buddypress/forums/index.php:77
+msgid "Create New Topic:"
+msgstr "Создать новую тему: "
+
+#: buddypress/forums/index.php:81
+msgid "Title:"
+msgstr "Заголовок: "
+
+#: buddypress/forums/index.php:84
+msgid "Content:"
+msgstr "СОдержание: "
+
+#: buddypress/forums/index.php:87
+msgid "Tags (comma separated):"
+msgstr "Ключевые слова (через запятую): "
+
+#: buddypress/forums/index.php:90
+msgid "Post In Group Forum:"
+msgstr "Публиковать в групповом форуме: "
+
+#. translators: no option picked in select box
+#: buddypress/forums/index.php:93
+msgid "----"
+msgstr "----"
+
+#: buddypress/forums/index.php:110
+msgid "Post Topic"
+msgstr "Опубликовать тему"
+
+#: buddypress/forums/index.php:122
+#, php-format
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr "Вы не входите в состав какой-либо группы, поэтому не можете публиковать сообщения в групповых форумах. Для публикации сначала найдите группу, которая соответствует Вашей тематике. Если такой группы нет, почему бы не <a href=‘%s’>создать новую группу</a>? Когда Вы присоединились к группе или создали новую, Вы можете публиковать темы в форуме данной группы."
+
+#: buddypress/groups/groups-loop.php:47
+#: buddypress/groups/single/group-header.php:49
+#, php-format
+msgid "active %s"
+msgstr "активна %s"
+
+#: buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Группы не найдены."
+
+#: buddypress/groups/index.php:19
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Все группы <span>%s</span>"
+
+#: buddypress/groups/index.php:35
+msgid "Most Members"
+msgstr "Участникам"
+
+#: buddypress/groups/index.php:36
+msgid "Newly Created"
+msgstr "Времени созданния"
+
+#: buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Название группы (обязательное)"
+
+#: buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Описание группы (обязательное)"
+
+#: buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Уведомлять участников группы об изменениях по email"
+
+#: buddypress/groups/single/admin.php:32
+#: buddypress/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Включить форум для обсуждений группы"
+
+#: buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Настройки конфиденциальности"
+
+#: buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Это открытая группа"
+
+#: buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Любой участник сообщества может войти в её состав."
+
+#: buddypress/groups/single/admin.php:64
+#: buddypress/groups/single/admin.php:74
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "Эта группа будет видна в списке групп и результатах поиска."
+
+#: buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "Опубликованные материалы и события группы будут видны всему сообществу."
+
+#: buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Это закрытая группа"
+
+#: buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Только участники запросившие членство и получившие одобрение могут войти в её состав."
+
+#: buddypress/groups/single/admin.php:75
+#: buddypress/groups/single/admin.php:85
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Опубликованные материалы и события группы будут видны только её членам."
+
+#: buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Это скрытая группа"
+
+#: buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Только участники получившие приглашение могут войти в её состав."
+
+#: buddypress/groups/single/admin.php:84
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Эта группа не будет видна в списке групп и результатах поиска."
+
+#: buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Приглашения в состав группы"
+
+#: buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Кто в составе группы может высылать приглашения другим участникам сообщества?"
+
+#: buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Участники группы"
+
+#: buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Только администраторы и модераторы группы"
+
+#: buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Только администраторы группы"
+
+#: buddypress/groups/single/admin.php:127
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "Загрузить изображение в качестве аватара группы. Аватар отображается на основной странице группы и в результатах поиска."
+
+#: buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "Загрузить"
+
+#: buddypress/groups/single/admin.php:137
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "Если Вы хотите удалить текущее изображение и не загружать новое, нажмите кнопку \"Удалить аватар\". "
+
+#: buddypress/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "Удалить аватар"
+
+#: buddypress/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "Вырезать аватар"
+
+#: buddypress/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr "Аватар для редактирования"
+
+#: buddypress/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr "Посмотреть"
+
+#: buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr "Обрезать изображение"
+
+#: buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Администраторы"
+
+#: buddypress/groups/single/admin.php:185
+#: buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Изображение профиля участника %s"
+
+#: buddypress/groups/single/admin.php:191
+#: buddypress/groups/single/admin.php:219
+msgid "Demote to Member"
+msgstr "Понизить до участника"
+
+#: buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: buddypress/groups/single/admin.php:218
+#: buddypress/groups/single/admin.php:276
+msgid "Promote to Admin"
+msgstr "Повысить до администратора"
+
+#: buddypress/groups/single/admin.php:232
+msgid "Members"
+msgstr "Участники"
+
+#: buddypress/groups/single/admin.php:261
+msgid "(banned)"
+msgstr "(в черном списке)"
+
+#: buddypress/groups/single/admin.php:270
+msgid "Unban this member"
+msgstr "Исключить из черного списка"
+
+#: buddypress/groups/single/admin.php:270
+msgid "Remove Ban"
+msgstr "Снять блок"
+
+#: buddypress/groups/single/admin.php:274
+msgid "Kick and ban this member"
+msgstr "Поместить участника в черный список"
+
+#: buddypress/groups/single/admin.php:274
+msgid "Kick &amp; Ban"
+msgstr "В черный список"
+
+#: buddypress/groups/single/admin.php:275
+msgid "Promote to Mod"
+msgstr "Повысить до модератора"
+
+#: buddypress/groups/single/admin.php:280
+msgid "Remove this member"
+msgstr "Удалить данного участника"
+
+#: buddypress/groups/single/admin.php:280
+msgid "Remove from group"
+msgstr "Исключить из группы"
+
+#: buddypress/groups/single/admin.php:293
+#: buddypress/groups/single/members.php:89
+msgid "This group has no members."
+msgstr "В этой группе нет членов."
+
+#: buddypress/groups/single/admin.php:323
+#: buddypress/members/single/groups/invites.php:29
+msgid "Accept"
+msgstr "Принять"
+
+#: buddypress/groups/single/admin.php:325
+#: buddypress/members/single/groups/invites.php:30
+msgid "Reject"
+msgstr "Отклонить"
+
+#: buddypress/groups/single/admin.php:338
+msgid "There are no pending membership requests."
+msgstr "Ожидающих подтверждения запросов о членстве нет. "
+
+#: buddypress/groups/single/admin.php:355
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "ВНИМАНИЕ: В случае удаления данной группы, будет стёрта ВСЯ связанная с ней информация. Действие носит необратимый характер, поэтому будьте осторожны."
+
+#: buddypress/groups/single/admin.php:358
+msgid "I understand the consequences of deleting this group."
+msgstr "Я осознаю последствия удаления данной группы."
+
+#: buddypress/groups/single/admin.php:363
+msgid "Delete Group"
+msgstr "Удалить группу"
+
+#: buddypress/groups/single/group-header.php:18
+msgid "Group Admins"
+msgstr "Администраторы группы"
+
+#: buddypress/groups/single/group-header.php:27
+msgid "Group Mods"
+msgstr "Модераторы группы"
+
+#: buddypress/groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr "Выберите участников из списка своих друзей, чтобы пригласить.  "
+
+#: buddypress/groups/single/send-invites.php:44
+msgid "Remove Invite"
+msgstr "Отозвать приглашение"
+
+#: buddypress/groups/single/send-invites.php:62
+msgid "Send Invites"
+msgstr "Отправить приглашение"
+
+#: buddypress/groups/single/send-invites.php:75
+msgid "Once you have built up friend connections you will be able to invite others to your group."
+msgstr "Когда у Вас появятся друзья, Вы сможете пригласить их стать членом Вашей группы."
+
+#: buddypress/members/index.php:33
+msgid "Newest Registered"
+msgstr "Времени регистрации"
+
+#: buddypress/members/members-loop.php:113
+msgid "Sorry, no members were found."
+msgstr "Участники не найдены."
+
+#: buddypress/members/single/groups/invites.php:16
+#, php-format
+msgid "%s members"
+msgstr "%s участников"
+
+#: buddypress/members/single/groups/invites.php:43
+msgid "You have no outstanding group invites."
+msgstr "У Вас нет неотвеченных приглашений вступить в группу."
+
+#: buddypress/members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr "Логин или имя друга"
+
+#: buddypress/members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr "Отправить всем пользователям."
+
+#: buddypress/members/single/messages/compose.php:17
+msgid "Subject"
+msgstr "Тема"
+
+#: buddypress/members/single/messages/compose.php:20
+msgid "Message"
+msgstr "Сообщение"
+
+#: buddypress/members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: buddypress/members/single/messages/messages-loop.php:34
+msgid "From:"
+msgstr "От: "
+
+#: buddypress/members/single/messages/messages-loop.php:39
+msgid "To:"
+msgstr "Кому: "
+
+#: buddypress/members/single/messages/messages-loop.php:45
+msgid "View Message"
+msgstr "Просмотр сообщения"
+
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete Message"
+msgstr "Удалить сообщение"
+
+#: buddypress/members/single/messages/messages-loop.php:52
+#: buddypress/members/single/messages/notices-loop.php:42
+msgid "Delete"
+msgstr "Удалить"
+
+#: buddypress/members/single/messages/messages-loop.php:73
+msgid "Sorry, no messages were found."
+msgstr "У Вас нет сообщений."
+
+#: buddypress/members/single/messages/notices-loop.php:35
+msgid "Sent:"
+msgstr "Отправлено: "
+
+#: buddypress/members/single/messages/notices-loop.php:53
+msgid "Sorry, no notices were found."
+msgstr "У Вас нет сообщений."
+
+#: buddypress/members/single/pictures.php:86
+msgid "There were no photos found."
+msgstr "Изображения не найдены."
+
+#: category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архивы по рубрикам: %s"
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к теме &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к теме &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к теме &ldquo;%2$s&rdquo;"
+
+#: comments.php:44
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:45
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Комментирование остановлено."
+
+#: content-none.php:13
+#: index.php:76
+#: search.php:34
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: content-none.php:17
+#: index.php:80
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Просим прощения, но по данному запросу ничего не найдено. Возможно функция поиска позволит найти нужные записи.  "
+
+#: content-page.php:19
+#: content.php:78
+#: image.php:92
+msgid "Pages:"
+msgstr "Страницы: "
+
+#: content.php:28
+#: content.php:65
+msgid "Leave a reply"
+msgstr "Оставить комментарий"
+
+#: content.php:28
+#: content.php:65
+msgid "1 Reply"
+msgstr "Один комментарий"
+
+#: content.php:28
+#: content.php:65
+msgid "% Replies"
+msgstr "Комментирии (%)"
+
+#: content.php:38
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на запись %s"
+
+#: content.php:77
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать дальше <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:64
+msgid "Copyright &copy;"
+msgstr "Все права защищены &copy;"
+
+#: footer.php:64
+msgid "&nbsp;&middot;&nbsp; Designed by <a href=\"http://www.buddyboss.com/\" target=\"_blank\" title=\"responsive BuddyPress theme\">BuddyBoss</a>"
+msgstr "&nbsp;&middot;&nbsp; Разработчик темы оформления <a href=\"http://www.buddyboss.com/\" target=\"_blank\" title=\"адаптивные темы оформления BuddyPress\">BuddyBoss</a>"
+
+#: footer.php:108
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:13
+msgid "BuddyBoss cannot find the starter file, should be located at: *wp root*/wp-content/themes/buddyboss/buddyboss-inc/init.php"
+msgstr "BuddyBoss не может найти файл начальной загрузки, который должен быть расположен здесь: *wp root*/wp-content/themes/buddyboss/buddyboss-inc/init.php"
+
+#: header.php:68
+msgid "Login"
+msgstr "Войти"
+
+#: header.php:78
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: image.php:26
+#, php-format
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Опубликовано </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> в <a href=\"%3$s\" title=\"Ссылка на полноразмерное изображение\">%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Вернуться к %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Далее &rarr;"
+
+#: index.php:65
+msgid "No posts to display"
+msgstr "Таких записей нет"
+
+#: index.php:69
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Хотите опубликовать свою первую запись? <a href=\"%s\">Тогда вперед</a>."
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска по запросу: %s"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Данных удовлетворяющих Вашему запросу не найдено. Попробуйте изменить текст запроса."
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архивы по ключевым словам: %s"
+
+#~ msgid "this"
+#~ msgstr "это "
+
+#~ msgid "%s mentioned you in an update"
+#~ msgstr "Автор %s упомянул(а) Вас в событии  "
+
+#~ msgid ""
+#~ "%1$s mentioned you in the group \"%2$s\":\n"
+#~ "\n"
+#~ "\"%3$s\"\n"
+#~ "\n"
+#~ "To view and respond to the message, log in and visit: %4$s\n"
+#~ "\n"
+#~ "---------------------\n"
+#~ msgstr ""
+#~ "%1$s упоминает Вас в группе \"%2$s\":\n"
+#~ "\n"
+#~ "\"%3$s\"\n"
+#~ "\n"
+#~ "Чтобы посмотреть запись и ответить на сообщение, авторизуйтесь и "
+#~ "перейдите по ссылке: %4$s\n"
+#~ "\n"
+#~ "——————————\n"
+
+#~ msgid ""
+#~ "%1$s mentioned you in an update:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "To view and respond to the message, log in and visit: %3$s\n"
+#~ "\n"
+#~ "---------------------\n"
+#~ msgstr ""
+#~ "%1$s упоминает Вас в обновлении:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "Чтобы просмотреть и ответить на сообщение, аворизуйтесь и перейдите по "
+#~ "ссылке: %3$s\n"
+#~ "\n"
+#~ "——————————\n"
+
+#~ msgid "To disable these notifications please log in and go to: %s"
+#~ msgstr ""
+#~ "Для отключения уведомлений, пожалуйста, авторизуйтесь и перейдите по "
+#~ "ссылке: %s"
+
+#~ msgid "%s replied to one of your updates"
+#~ msgstr "%s отвечает на одно из Ваших обновлений"
+
+#~ msgid ""
+#~ "%1$s replied to one of your updates:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "To view your original update and all comments, log in and visit: %3$s\n"
+#~ "\n"
+#~ "---------------------\n"
+#~ msgstr ""
+#~ "%1$s упоминает Вас в обновлении:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "Чтобы просмотреть сообщение и комментарии к нему, аворизуйтесь и "
+#~ "перейдите по ссылке: %3$s\n"
+#~ "\n"
+#~ "——————————\n"
+
+#~ msgid "%s replied to one of your comments"
+#~ msgstr "%s отвечает на один из Ваших комментариев"
+
+#~ msgid ""
+#~ "%1$s replied to one of your comments:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "To view the original activity, your comment and all replies, log in and "
+#~ "visit: %3$s\n"
+#~ "\n"
+#~ "---------------------\n"
+#~ msgstr ""
+#~ "%1$s отвечает на один из Ваших комментариев:\n"
+#~ "\n"
+#~ "\"%2$s\"\n"
+#~ "\n"
+#~ "Чтобы посмотреть событие, Ваши комментарии и ответы на них, авторизуйтесь "
+#~ "и перейдите по ссылке: %3$s\n"
+#~ "\n"
+#~ "——————————\n"
+
+#~ msgid "You"
+#~ msgstr "Вы"
+
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr ""
+#~ "Извините, но такие события не найдены. Попробуйте использовать другой "
+#~ "фильтр."
